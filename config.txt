@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx66c5cd5e732d64a2",
+# 公众号appSecret
+"app_secret": "af9da15967b9edb1ef1dbce02b4b94e9",
+# 模板消息id
+"template_id": "sCqIzMlxxrv0uCit560Q-ZLb1dSN2ZRcqaTRJPLfxA0",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o2CRP5ujl2BwUJMeUzO3d9tJbCFk"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "a65a7038c8de4f8f9ddfb4e4c0024b35",
+# 天行数据apikey
+"tian_api": "",
+# 所在地区，可为甘肃省，天水市
+"region": "番禺区",
+# 生日1
+"birthday1": {"梅梅": "小薛", "birthday": "保密"},
+# 在一起的日子，格式同上
+"love_date": "梦里一直在一起",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
